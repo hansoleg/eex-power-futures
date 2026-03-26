@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+midterm copy.ipynb
+test.ipynb
+GRA65612_assignment_2026.pdf
